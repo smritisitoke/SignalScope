@@ -6,13 +6,6 @@ SignalScope is an AI-powered news analysis application that retrieves recent art
 
 Instead of manually reading multiple articles, users can explore major themes, key claims, uncertainties, and important caveats through a single interactive interface.
 
-## 📸 Application Preview
-
-<!-- Save your Streamlit screenshot as assets/streamlit-dashboard.png -->
-
-![SignalScope Streamlit Dashboard](assets/streamlit-dashboard.png)
-
-*SignalScope's interactive dashboard for searching news and generating intelligence reports.*
 
 ## ✨ Features
 
